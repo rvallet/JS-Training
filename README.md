@@ -1,11 +1,16 @@
 # JS-Training
+
 Formation JavaScript Avancé
+
+## Slides
+
+[presenter_slides.pptx](https://github.com/worldline/JS-Training/raw/master/presenter_slides.pptx)
 
 ## Exercices
 
 ### en ligne via CodeSandbox (recommandé):
 
-- https://codesandbox.io/s/github/SDCOAdvocates/JS-Training
+- https://codesandbox.io/s/github/worldline/JS-Training
 - Cliquez sur le bouton "Fork" pour avoir votre propre version de travail
 
 ### ou en local
